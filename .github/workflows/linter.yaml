@@ -1,5 +1,5 @@
 name: super-linter
-n:
+on:
   pull_request:
     branches: [ "main" ]
 jobs:
